@@ -9,8 +9,6 @@ pip install -r requirements.txt
 ```
 
 ## 2. Create a `.env` File
-```bash
-touch .env
 
 Create a `.env` file in the project root directory with the following content:
 
