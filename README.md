@@ -43,5 +43,3 @@ python get_data.py
 ```
 
 ---
-
-Feel free to modify the `.env` file and scripts as per your requirements.
