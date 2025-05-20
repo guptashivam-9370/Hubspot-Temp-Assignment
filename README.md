@@ -37,7 +37,7 @@ Replace `<access_token>` with your actual access token.
 
     Ensure that these columns are added in CRM database before running the script.
 
-    The generated dummy data will also be saved in a CSV file named `data.csv` in the project root directory, with columns corresponding to the same fields.
+    The generated dummy data will be saved in a CSV file named `dummy_contacts.csv` in the project root directory, with columns corresponding to the same fields.
 ## 3. Generate Dummy Data
 
 Run the following command to generate data:
